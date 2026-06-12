@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lindon5closbi.github.io/migusportsen-com-cn/sitemap.xml
